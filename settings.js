@@ -9,17 +9,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> GANTI APIKEY, API INI CUMA BUAT FITUR TIKTOK DOWNLOAD
-global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
+global.zenzkey = 'f241e27cf3a5' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
+global.ownerNumber = ['19047502362','19047502362'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '19047502362' //Owner Utama
+global.ownerName = 'Kanna Chan' //Ganti Jadi Namamu
 global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
-global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
+global.author = 'By KannaChan' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
+global.webme = 'https://linktr.ee/whatsappbotz' //Ganti Jadi Bebas Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
